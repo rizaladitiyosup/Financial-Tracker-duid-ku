@@ -9,7 +9,7 @@
 ## 📸 Preview
 
 <!-- Ganti dengan screenshot nyata aplikasimu -->
-![duid-ku Dashboard](./screenshots/dashboard.png)
+![duid-ku Dashboard](./visuals/duid-ku.png)
 
 ---
 
